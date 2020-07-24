@@ -1,0 +1,21 @@
+Sys admin tools
+
+sysinternals:suite of tools
+powershell
+wireshark
+mmc
+
+network admin
+solarwinds 
+wireshar
+
+
+SOC analyst
+
+Hex editors
+forensic toolkit
+siems
+threat intelligence tools
+binwalk'
+hxd
+hashcalc
